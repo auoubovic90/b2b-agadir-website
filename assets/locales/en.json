@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "store": "Store",
+    "chat": "Chat",
+    "more": "More"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional IT Solutions",
+      "subtitle": "One-stop platform for diagnostics, repairs & electronics"
+    },
+    "cta": {
+      "diagnose": "Diagnose my problem",
+      "book": "Book technician"
+    },
+    "stats": {
+      "apps": "Apps Delivered",
+      "rating": "Rating",
+      "savings": "% Cost Saved"
+    }
+  },
+  "services": {
+    "title": "Our Services"
+  },
+  "store": {
+    "title": "Electronics Store",
+    "search": "Search products..."
+  },
+  "chat": {
+    "title": "AI Diagnostic Bot",
+    "welcome": "Hello! I'm here to help diagnose your IT problems. What issue are you experiencing?",
+    "input": "Type your message...",
+    "issues": {
+      "slow": "Slow PC",
+      "virus": "Virus/Malware",
+      "screen": "Broken Screen",
+      "network": "Network Issues"
+    }
+  },
+  "more": {
+    "title": "More",
+    "language": "Language",
+    "theme": "Dark Mode",
+    "share": "Share App",
+    "admin": "Admin Login"
+  }
+}

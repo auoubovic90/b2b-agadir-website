@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "store": "Boutique",
+    "chat": "Chat",
+    "more": "Plus"
+  },
+  "home": {
+    "hero": {
+      "title": "Solutions IT Professionnelles",
+      "subtitle": "Plateforme unique pour diagnostics, réparations et électronique"
+    },
+    "cta": {
+      "diagnose": "Diagnostiquer mon problème",
+      "book": "Réserver un technicien"
+    },
+    "stats": {
+      "apps": "Apps Livrées",
+      "rating": "Note",
+      "savings": "% Économisé"
+    }
+  },
+  "services": {
+    "title": "Nos Services"
+  },
+  "store": {
+    "title": "Boutique Électronique",
+    "search": "Rechercher des produits..."
+  },
+  "chat": {
+    "title": "Bot de Diagnostic IA",
+    "welcome": "Bonjour! Je suis là pour vous aider à diagnostiquer vos problèmes IT. Quel problème rencontrez-vous?",
+    "input": "Tapez votre message...",
+    "issues": {
+      "slow": "PC Lent",
+      "virus": "Virus/Malware",
+      "screen": "Écran Cassé",
+      "network": "Problèmes Réseau"
+    }
+  },
+  "more": {
+    "title": "Plus",
+    "language": "Langue",
+    "theme": "Mode Sombre",
+    "share": "Partager l'App",
+    "admin": "Connexion Admin"
+  }
+}
